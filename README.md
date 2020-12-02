@@ -1,3 +1,10 @@
+Libraries
+JUnit5.4 needs to be added to run the tests.
+
+
+
+
+
 Charlene's Coffee Corner
 Recently, Charlene decided to open her very own little coffee shop on a busy street corner.
 Being the careful entrepreneur, she decided to start off with a limited offering, with the option to expand her choice of products, as business goes.
